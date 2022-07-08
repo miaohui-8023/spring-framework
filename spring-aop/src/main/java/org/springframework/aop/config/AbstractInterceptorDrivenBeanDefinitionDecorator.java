@@ -55,7 +55,7 @@ import org.springframework.util.StringUtils;
  * @author Rob Harrop
  * @author Juergen Hoeller
  * @since 2.0
- * @see org.aopalliance.intercept.MethodInterceptor
+ * @see org.aopalliance.intercept.MethodInterceptor 123
  */
 public abstract class AbstractInterceptorDrivenBeanDefinitionDecorator implements BeanDefinitionDecorator {
 
